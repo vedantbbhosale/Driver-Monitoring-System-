@@ -14,7 +14,6 @@
 - [Getting good results](#getting-good-results)
 - [How it works](#how-it-works)
 - [Project structure](#project-structure)
-- [Testing](#testing)
 
 ## Background
 
