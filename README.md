@@ -139,22 +139,6 @@ calibration_images/      # place your own checkerboard photos here
 .github/workflows/ci.yml # automated tests on every push
 ```
 
-## Testing
-
-The pipeline is validated against a **synthetically generated camera** with
-known ground-truth intrinsics and distortion: checkerboard corners are
-projected using the known camera model, run through the calibration
-pipeline, and the recovered parameters are checked against ground truth.
-This is the standard way to unit-test a calibration implementation without
-needing physical hardware in CI.
-
-```bash
-pip install pytest
-pytest tests/ -v
-```
-
-Runs automatically on every push via GitHub Actions
-([`.github/workflows/ci.yml`](.github/workflows/ci.yml)).
 
 ## Note on included demo images
 
