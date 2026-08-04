@@ -82,7 +82,7 @@ along with:
 | `undistortion_comparison.jpg` | Original vs. undistorted image, side by side |
 | `calibration_results.json` | Full numeric results for downstream use |
 
-Sample output from a test run is included in [`sample_output/`](sample_output/).
+Sample output from a test run is included in [`sample_output/`](sample_output.jpg/).
 
 ## Usage
 
