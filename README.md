@@ -120,7 +120,7 @@ results).
 
 ## How it works
 
-See [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md) for the full derivation:
+See [`docs/METHODOLOGY.md`](https://github.com/vedantbbhosale/Driver-Monitoring-System-/blob/af1662e68b232b31a0b23ab50b6f83ea8d90f108/METHODOLOGY.md) for the full derivation:
 the pinhole camera model, Zhang's calibration method, the radial/tangential
 distortion model, and how reprojection error is computed and interpreted.
 
