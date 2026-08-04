@@ -43,8 +43,8 @@ generalized so it can be pointed at any camera and any checkerboard, plus
 automated tests validating it against a synthetic camera with known ground
 truth.
 
-Full write-up of the math: [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md)
-https://github.com/vedantbbhosale/Driver-Monitoring-System-/blob/af1662e68b232b31a0b23ab50b6f83ea8d90f108/METHODOLOGY.md
+Full write-up of the math: [`docs/METHODOLOGY.md`](https://github.com/vedantbbhosale/Driver-Monitoring-System-/blob/af1662e68b232b31a0b23ab50b6f83ea8d90f108/METHODOLOGY.md)
+
 ## What it does
 
 1. **Detects a checkerboard pattern** across a folder of calibration images
